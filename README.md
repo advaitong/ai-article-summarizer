@@ -1,1 +1,1 @@
-This is a browser extension tool that uses the Google Gemini API to read the article on the current tab and summarize it for you. There are three types of summarization: Brief, Detailed and Bullet points. Made using simple HTML, CSS and JS.
+A browser extension tool that uses the Google Gemini API to read the article on the current tab and summarize it for you. There are three types of summarization: Brief, Detailed and Bullet points. Made using simple HTML, CSS and JS.
